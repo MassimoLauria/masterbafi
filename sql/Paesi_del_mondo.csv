@@ -1,0 +1,110 @@
+Stato;Popolazione;Religione;Pil pro capite;Regione;Calorie;AIDS x 100000 ab
+Botswana;1,359;Tribale;2,677;Africa;2,375;1,415
+Burkina Faso;10,000;Animista;357;Africa;2,288;4,193
+Burundi;6,000;Cattol.;208;Africa;1,932;7,225
+Camerun;13,100;Animista;993;Africa;2,217;3,072
+Etiopia;55,200;Musulm.;122;Africa;1,667;12,958
+Gabon;1,300;Cattol.;4,283;Africa;2,383;472
+Gambia;959;Musulm.;351;Africa;;277
+Kenya;28,200;Cattol.;323;Africa;2,163;30,126
+Liberia;2,900;Animista;409;Africa;2,382;191
+Morocco;28,600;Musulm.;1,062;Africa;;196
+Nigeria;98,100;Musulm.;282;Africa;2,312;1,148
+Rep.C.Afric.;3,300;Protest.;457;Africa;2,036;3,730
+Rwanda;8,400;Cattol.;292;Africa;1,971;10,706
+Senegal;8,700;Musulm.;744;Africa;2,369;911
+Somalia;6,667;Musulm.;2,126;Africa;1,906;13
+Sudafrica;43,900;;3,128;Africa;;3,210
+Tanzania;29,800;Animista;263;Africa;2,206;38,719
+Uganda;19,800;Cattol.;325;Africa;2,153;43,875
+Zambia;9,100;Protest.;573;Africa;2,077;29,734
+Argentina;33,900;Cattol.;3,408;America latina;3,113;3,904
+Barbados;256;Protest.;6,950;America latina;;418
+Bolivia;7,900;Cattol.;730;America latina;1,916;87
+Brasile;156,600;Cattol.;2,354;America latina;2,751;49,312
+Cile;14,000;Cattol.;2,591;America latina;2,581;831
+Colombia;35,600;Cattol.;1,538;America latina;2,598;4,583
+Costa Rica;3,300;Cattol.;2,031;America latina;2,808;587
+Cuba;11,100;Cattol.;1,382;America latina;;245
+Ecuador;10,700;Cattol.;1,085;America latina;2,531;381
+El Salvador;5,800;Cattol.;1,078;America latina;2,317;530
+Guatemala;10,300;Cattol.;1,342;America latina;2,235;499
+Haiti;6,500;Cattol.;383;America latina;2,013;4,987
+Honduras;5,600;Cattol.;1,030;America latina;2,247;3,473
+Messico;91,800;Cattol.;3,604;America latina;3,052;18,353
+Nicaragua;4,100;Cattol.;447;America latina;2,265;66
+Panama;2,600;Cattol.;2,397;America latina;2,539;644
+Paraguay;5,200;Cattol.;1,500;America latina;2,757;77
+Peru;23,650;Cattol.;1,107;America latina;2,186;1,068
+Rep.Dominic.;7,800;Cattol.;1,034;America latina;2,359;2,353
+Uruguay;3,200;Cattol.;3,131;America latina;2,653;469
+Venezuela;20,600;Cattol.;2,829;America latina;2,582;3,511
+Afghanistan;20,500;Musulm.;205;Asia / Pacifico;;0
+Bangladesh;125,000;Musulm.;202;Asia / Pacifico;2,021;1
+Cambogia;10,000;Buddista;260;Asia / Pacifico;2,166;0
+Cina;1,205,200;Taoista;377;Asia / Pacifico;2,639;38
+Corea Nord;23,100;Buddista;1,000;Asia / Pacifico;;0
+Corea Sud;45,000;Protest.;6,627;Asia / Pacifico;;19
+Filippine;69,800;Cattol.;867;Asia / Pacifico;2,375;136
+Giappone;125,500;Buddista;19,860;Asia / Pacifico;2,956;713
+Hong Kong;5,800;Buddista;14,641;Asia / Pacifico;;99
+India;911,600;Indù;275;Asia / Pacifico;2,229;713
+Indonesia;199,700;Musulm.;681;Asia / Pacifico;2,750;49
+Malaysia;19,500;Musulm.;2,995;Asia / Pacifico;2,774;107
+Pakistan;128,100;Musulm.;406;Asia / Pacifico;;41
+Singapore;2,900;Taoista;14,990;Asia / Pacifico;3,198;75
+Tailandia;59,400;Buddista;1,800;Asia / Pacifico;2,316;5,654
+Taiwan;20,944;Buddista;7,055;Asia / Pacifico;;
+Vietnam;73,100;Buddista;230;Asia / Pacifico;2,233;107
+Bielorussia;10,300;Ortodos.;6,500;Europa orientale;;10
+Bosnia;4,600;Musulm.;3,098;Europa orientale;;
+Bulgaria;8,900;Ortodos.;3,831;Europa orientale;;24
+Croazia;4,900;Cattol.;5,487;Europa orientale;;56
+Estonia;1,600;Protest.;6,000;Europa orientale;;3
+Georgia;5,500;Ortodos.;4,500;Europa orientale;;2
+Lettonia;2,700;Protest.;7,400;Europa orientale;;8
+Lituania;3,800;Cattol.;6,710;Europa orientale;;5
+Polonia;38,600;Cattol.;4,429;Europa orientale;;201
+Rep.Ceca;10,400;Cattol.;7,311;Europa orientale;3,632;48
+Romania;23,400;Ortodos.;2,702;Europa orientale;3,155;2,736
+Russia;149,200;Ortodos.;6,680;Europa orientale;;136
+Ucraina;51,800;Ortodos.;2,340;Europa orientale;;27
+Ungheria;10,500;Cattol.;5,249;Europa orientale;3,644;149
+Arabia Saud.;18,000;Musulm.;6,651;Medio oriente;2,874;61
+Armenia;3,700;Ortodos.;5,000;Medio oriente;;2
+Azerbaijan;7,400;Musulm.;3,000;Medio oriente;;
+Bahrain;600;Musulm.;7,875;Medio oriente;;13
+Egitto;60,000;Musulm.;748;Medio oriente;3,336;91
+Emirati Arab;2,800;Musulm.;14,193;Medio oriente;;8
+Giordania;3,961;Musulm.;1,157;Medio oriente;2,634;31
+Iran;65,600;Musulm.;1,500;Medio oriente;3,181;92
+Iraq;19,900;Musulm.;1,955;Medio oriente;2,887;26
+Israele;5,400;Ebraica;13,066;Medio oriente;;279
+Kuwait;1,800;Musulm.;6,818;Medio oriente;3,195;10
+Libano;3,620;Musulm.;1,429;Medio oriente;;72
+Libia;5,500;Musulm.;5,910;Medio oriente;3,324;10
+Oman;1,900;Musulm.;7,467;Medio oriente;;33
+Siria;14,900;Musulm.;2,436;Medio oriente;;26
+Turchia;62,200;Musulm.;3,721;Medio oriente;3,236;130
+Uzbekistan;22,600;Musulm.;1,350;Medio oriente;;2
+Australia;17,800;Protest.;16,848;OCSE;3,216;4,727
+Austria;8,000;Cattol.;18,396;OCSE;3,495;1,150
+Belgio;10,100;Cattol.;17,912;OCSE;;1,603
+Canada;29,100;Cattol.;19,904;OCSE;3,482;9,511
+Danimarca;5,200;Protest.;18,277;OCSE;3,628;1,411
+Finlandia;5,100;Protest.;15,877;OCSE;3,253;158
+Francia;58,000;Cattol.;18,944;OCSE;3,465;30,003
+Germania;81,200;Protest.;17,539;OCSE;3,443;11,179
+Gran Bretag.;58,400;Protest.;15,974;OCSE;3,149;9,025
+Grecia;10,400;Ortodos.;8,060;OCSE;3,825;916
+Irlanda;3,600;Cattol.;12,170;OCSE;3,778;392
+Islanda;263;Protest.;17,241;OCSE;;31
+Italia;58,100;Cattol.;17,500;OCSE;3,504;21,770
+Norvegia;4,300;Protest.;17,755;OCSE;3,326;375
+Nuova Zeland;3,524;Protest.;14,381;OCSE;3,362;431
+Olanda;15,400;Cattol.;17,245;OCSE;3,151;3,055
+Portogallo;10,500;Cattol.;9,000;OCSE;;1,811
+Spagna;39,200;Cattol.;13,047;OCSE;3,572;24,202
+Stati Uniti;260,800;Protest.;23,474;OCSE;3,671;411,907
+Svezia;8,800;Protest.;16,900;OCSE;2,960;1,001
+Svizzera;7,000;Cattol.;22,384;OCSE;3,562;3,662
