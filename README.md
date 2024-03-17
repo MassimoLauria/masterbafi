@@ -2,9 +2,11 @@
 
 *Massimo Lauria - Sapienza - Università di Roma*
 
-Notebook per le lezioni del master
+Questo archivio contiene
 
-- Tutorial python
-- Esempio di calcolo del rendimento medio di titoli
+- Introduzione al corso [pdf][Introduzione.pdf]
+- [Tutorial di Python](Tutorial.ipynb)
+- Esempio di calcolo del [rendimento medio](rendimentomedio/RendimentoMedio.ipynb) di titoli
 
-Run it online on https://mybinder.org/v2/gh/MassimoLauria/masterbafi/main
+Questo  archivio contiene  anche delle [versioni in PDF](./pdf) dei  notebook
+jupyter che usiamo durante la lezione.
