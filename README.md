@@ -4,7 +4,7 @@
 
 Questo archivio contiene
 
-- Introduzione al corso [pdf][Introduzione.pdf]
+- Introduzione al corso [pdf](Introduzione.pdf)
 - [Tutorial di Python](Tutorial.ipynb)
 - Esempio di calcolo del [rendimento medio](rendimentomedio/RendimentoMedio.ipynb) di titoli
 
